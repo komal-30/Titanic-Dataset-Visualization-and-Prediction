@@ -14,7 +14,7 @@ The dataset contains various columns like passenger ID,survival condition,name,a
 Here the main aim is to obtain visual information about the reasons and analyze the titanic hazard. 
 Based upon the analysis we can find out the survival chances of individuals.
 ***
-![Uploading Capture.JPG…]()
+![Capture](https://user-images.githubusercontent.com/52834981/166115496-01828772-ab81-480b-b106-51d80b8fc3a6.JPG)
 ![Age Density (1)](https://user-images.githubusercontent.com/52834981/166115467-cfeac98e-61d2-4745-a1c2-75ff32bf4f22.JPG)
 ![Survived Count (1)](https://user-images.githubusercontent.com/52834981/166115457-b8ee4a36-be83-4ad4-9562-a578e06daf03.JPG)
 ![Survived Count Sex (1)](https://user-images.githubusercontent.com/52834981/166115459-d78b438c-831d-487a-b360-55b544097475.JPG)
